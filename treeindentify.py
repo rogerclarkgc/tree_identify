@@ -427,29 +427,3 @@ class svmClassifier(knnClassifier):
         print "accuracy:", accuracy_svm
 
             
-        
-        
-        
-
-        
-
-        
-
-                
-
-        
-
-        
-    
-    
-                
-        
-        
-            
-            
-
-    
-            
-            
-
-        

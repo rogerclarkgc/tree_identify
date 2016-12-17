@@ -58,9 +58,3 @@ test.savePic(saveName, select = "mask")
 #lamd = 1
 #j = costFunctionReg(theta, temp_h[0], labels_h, lamd)
 #grad = costFunctionGrad(theta, temp_h[0], labels_h, lamd)
-
-
-
-
-
-
